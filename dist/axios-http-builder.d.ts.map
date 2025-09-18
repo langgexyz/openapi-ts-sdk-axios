@@ -1,1 +1,0 @@
-{"version":3,"file":"axios-http-builder.d.ts","sourceRoot":"","sources":["../src/axios-http-builder.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,IAAI,EAAc,MAAM,gBAAgB,CAAC;AAC/D,OAAO,KAAK,EAAiD,aAAa,EAAE,MAAM,OAAO,CAAC;AAE1F;;GAEG;AACH,qBAAa,gBAAiB,SAAQ,WAAW;IAC/C,OAAO,CAAC,aAAa,CAAgB;gBAEzB,GAAG,EAAE,MAAM,EAAE,aAAa,EAAE,aAAa;IAK9C,KAAK,IAAI,IAAI;CA4CrB"}
